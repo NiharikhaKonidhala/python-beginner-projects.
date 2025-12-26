@@ -1,0 +1,8 @@
+a = 10
+b = 3
+
+print("What does 10 plus 3 give us?",a+b)
+print("What does 10 minus 3 give us?",a-b)
+print("What does 10 multiplied by 3 give us?",a*b)
+print("What does 10 divded by 3 give us?",a/b)
+print("What is the remainder of 10 devided by 3?",a%b)
