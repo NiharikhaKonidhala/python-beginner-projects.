@@ -1,0 +1,12 @@
+correct_username= "Niharikhalollollol"
+correct_password= "Strawberryhehe"
+
+
+username = str(input("Username: "))
+password = str(input("Password: "))
+if username== correct_username and password== correct_password :
+  message = "Login succesful!"
+  print(f"{message}")
+else:
+  message = "Error :("
+  print(f"{message}")
