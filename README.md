@@ -3,5 +3,6 @@ numberss_prctice.py result = <img width="1615" height="841" alt="Screenshot 2025
 operators_practice.py.txt = <img width="1620" height="845" alt="Screenshot 2025-12-27 194429" src="https://github.com/user-attachments/assets/dad4281b-13b8-47d4-a8ee-9151a0509096" />
 Login_simulator.py = <img width="1920" height="1080" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/45b6a340-6772-4976-abf1-ffcd517fa04a" />
 Bill split calculator = ![bill_split_calculator](https://github.com/user-attachments/assets/6635b89b-14f3-4bfd-99fe-67a3f3fed6a9)
+fizzbuzztypeshi = ![fizzbuzztypeshi](https://github.com/user-attachments/assets/139a08ef-b1cc-41ac-8df8-92fed00309ce)
 
 
